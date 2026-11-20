@@ -21,6 +21,8 @@
 - сетка популярных товаров;
 - подвал страницы.
 
+## Ссылка на GitHub Pages: https://marceline-ad.github.io/kr2-bootstrap-shop/
+
 ## Используемые технологии
 
 - HTML;
